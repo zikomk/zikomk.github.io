@@ -1,5 +1,5 @@
 This is README file content.
 
-### [Decorators] (decorators.md)
+### [Decorators](decorators.md)
 
-### [Date and Time] (date-time.md)
+### [Date and Time](date-time.md)
